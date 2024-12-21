@@ -8,7 +8,6 @@
   58 current ph 3
   59 voltage ph 3
 3. Make sure all the required libary are already added to Arduino IDE (and in proteus for simunation purpose only)
-4. dont try to clone the  code without permission 
 connect Lcd as mension below
 */
 #include <DS3231.h>
