@@ -1,4 +1,4 @@
-
+/*
 1. select the "Board >> Genuino Mega" in Tools menu above 
 2. connect the sensor as follows
   54 current ph 1
