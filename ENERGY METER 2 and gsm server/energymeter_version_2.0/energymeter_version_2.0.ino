@@ -1,4 +1,4 @@
-/*important notice before blaming the  code
+/*important notice
 1. select the "Board >> Genuino Mega" in Tools menu above 
 2. connect the sensor as follows
   54 current ph 1
@@ -8,7 +8,7 @@
   58 current ph 3
   59 voltage ph 3
 3. Make sure all the required libary are already added to Arduino IDE (and in proteus for simunation purpose only)
-4. dont try to clone the  code without permission 
+
 connect Lcd as mension below
 */
 #include <DS3231.h>
@@ -407,3 +407,4 @@ if (!SD.begin(chipSelect))
     }
   }
 }
+
